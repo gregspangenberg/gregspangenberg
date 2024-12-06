@@ -1,5 +1,5 @@
 ### Hi
-I'm a Data Scientist and PhD Student.
+I'm a medical computer vision researcher and PhD candidate.
 You can learn more about me [here](https://www.gspangenberg.com/ "Gregory's website").
 
 
