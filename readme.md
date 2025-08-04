@@ -1,5 +1,5 @@
 ### Hi
-I'm a medical computer vision researcher and PhD candidate.
+I'm a Computer Vision Research Scientist at Exactech and a PhD candidate.
 You can learn more about me [here](https://www.gspangenberg.com/ "Gregory's website").
 
 
